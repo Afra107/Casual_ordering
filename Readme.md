@@ -47,15 +47,21 @@ python Matrix Clock.py
 
 ### 1. Birman-Schiper-Stephenson (BSS)
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/7aa1ff0d-38c8-45d4-ac2c-d0ccb5029732)
+
 
 ### 2. Schwarz & Mattern (SES)
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/dd2a9d33-b5f2-4ade-805a-67146aa83487)
+
 
 ### 3. Matrix Clock
 
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![image](https://github.com/user-attachments/assets/df7201bc-b8d4-44db-84f5-128e5ac673f3)
+
+![image](https://github.com/user-attachments/assets/5825cb88-7030-48a5-aea9-7857356381a9)
+
+![image](https://github.com/user-attachments/assets/8ae891bd-6259-46d3-a4fb-6d3dc26c54a3)
+
+![image](https://github.com/user-attachments/assets/3746866d-0cad-4281-a63c-25abc1f30dec)
+
